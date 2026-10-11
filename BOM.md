@@ -12,11 +12,10 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?gad_source=1&gad_campaignid=12740071602&gbraid=0AAAAACiAB47W4hHsZo_f9EspMgnEHm-E3&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNYNE0lGeCMBd-7LBi2zgeeIGaW9n2ibcu9eoUh-osjzIjsqAuOXZ20aAspeEALw_wcB) | Main microcontroller | 1 | $4.99 | $4.99 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?gad_source=1&gad_campaignid=12740071602&gbraid=0AAAAACiAB47W4hHsZo_f9EspMgnEHm-E3&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNYNE0lGeCMBd-7LBi2zgeeIGaW9n2ibcu9eoUh-osjzIjsqAuOXZ20aAspeEALw_wcB) |
 | [DHT-11](https://www.lcsc.com/product-detail/C117051.html?spm=wm.mxq.bom.5.xh___wm.bjg.btn.cre&lcsc_vid=T1NYBVYCEwJdVlxWFQAMUgYDRVMIUgcCEgJeU11WQlExVlNfRldZUFJRQVZZXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D) | 4 pin Sensor | 1 | $1.46 | $1.46 | [LCSC](https://www.lcsc.com/product-detail/C117051.html?spm=wm.mxq.bom.5.xh___wm.bjg.btn.cre&lcsc_vid=T1NYBVYCEwJdVlxWFQAMUgYDRVMIUgcCEgJeU11WQlExVlNfRldZUFJRQVZZXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D) |
 | [10k(ohm) resistor](https://www.microcenter.com/product/689188/leo-sales-ltd-resistors-025w-10kohm-metal-oxide-10-pack) | DHT 11 data line pull up | 1 | $3.99 | $3.99 | [Microcenter](https://www.microcenter.com/product/689188/leo-sales-ltd-resistors-025w-10kohm-metal-oxide-10-pack) |
-| **Parts subtotal** | — | — | — | **$10.44** | — |
+| **Parts subtotal** | — | — | — | **$5.45** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$10.44** | — |
+| **Total** | — | — | — | **$5.45** | — |
 
-$19.56 left of the tier's funding.
+$24.55 left of the tier's funding.
