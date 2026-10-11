@@ -10,3 +10,8 @@ components will fit into said shape
 
 <img width="1176" height="797" alt="Screenshot 2026-10-11 011610" src="https://github.com/user-attachments/assets/9c6367a1-c64f-4ec7-93fb-741a9a5fbfbd" />
 
+Then I ran into an issue with the edge cuts so I had to trace the entire thing over with a single polygon drawing tool.
+After this I downloaded everything I needed to code and uploaded the code from the starbie guide. I then made a few edits to the code to make it my own. 
+
+next I drew my sprite on a 32x32 pixel grid and added it to my code.
+<img width="32" height="32" alt="batmansprite" src="https://github.com/user-attachments/assets/b7da4ef0-3865-4056-b26d-e44c6ce181c2" />
