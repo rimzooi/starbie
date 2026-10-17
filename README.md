@@ -15,3 +15,6 @@ After this I downloaded everything I needed to code and uploaded the code from t
 
 next I drew my sprite on a 32x32 pixel grid and added it to my code.
 <img width="32" height="32" alt="batmansprite" src="https://github.com/user-attachments/assets/b7da4ef0-3865-4056-b26d-e44c6ce181c2" />
+
+I was told my ESP placememt was incorrect so Ive fixed that.
+<img width="1117" height="793" alt="Screenshot 2026-10-17 055140" src="https://github.com/user-attachments/assets/afeaadc0-0223-4223-8e38-ad00ae7b81bc" />
