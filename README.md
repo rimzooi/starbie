@@ -18,3 +18,5 @@ next I drew my sprite on a 32x32 pixel grid and added it to my code.
 
 I was told my ESP placememt was incorrect so Ive fixed that.
 <img width="1117" height="793" alt="Screenshot 2026-10-17 055140" src="https://github.com/user-attachments/assets/afeaadc0-0223-4223-8e38-ad00ae7b81bc" />
+My Bill of Materials is below:
+<img width="752" height="486" alt="Screenshot 2026-10-27 172801" src="https://github.com/user-attachments/assets/56f6359e-177a-4953-a101-159d8b7a9734" />
